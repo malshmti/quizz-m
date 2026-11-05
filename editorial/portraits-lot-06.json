@@ -1,0 +1,246 @@
+{
+  "tool": "image_gen built-in",
+  "reference": "illustrations/brut/luffy.png",
+  "portraits": [
+    {
+      "id": "cast-084",
+      "name": "Yu Ishigami",
+      "manga": "Kaguya-sama: Love Is War",
+      "period": "Premiers arcs",
+      "pose": "Three-quarter LEFT, slightly slouched, long dark fringe covering one eye, black school uniform, subdued skeptical gaze and faint weary frown. Quiet perceptive introvert.",
+      "prompt": "Use case: illustration-story. Create ONE square head-and-shoulders portrait for the Bureau des Destins quiz. The attached Luffy drawing is a reference for MATERIALS AND LINEWORK ONLY. Do NOT copy Luffy's face, grin, head tilt, gaze direction, clothes or hat. CHARACTER: Yu Ishigami from Kaguya-sama: Love Is War. Period: Premiers arcs. EXPRESSION AND COMPOSITION: Three-quarter LEFT, slightly slouched, long dark fringe covering one eye, black school uniform, subdued skeptical gaze and faint weary frown. Quiet perceptive introvert. Style: raw imperfect handmade black pen scratchwork, uneven doubled broken contours, asymmetry, loose construction marks, dry hatching, sparse muted watercolor washes bleeding past edges, warm ivory textured paper. Preserve recognizability of this specific character. Full head with generous paper margin, shoulders fade into paper. Empty background. No lettering, no watermark, no panel border. Avoid glossy clean digital anime, repeated generic smiles or identical poses."
+    },
+    {
+      "id": "cast-086",
+      "name": "Asa Mitaka",
+      "manga": "Chainsaw Man",
+      "period": "Début de la deuxième partie",
+      "pose": "FRONT, dark hair in two low pigtails, school blouse and pinafore, rigid shoulders, awkward serious expression with self-conscious eyes; not smiling confidently. No Yoru scars.",
+      "prompt": "Use case: illustration-story. Create ONE square head-and-shoulders portrait for the Bureau des Destins quiz. The attached Luffy drawing is a reference for MATERIALS AND LINEWORK ONLY. Do NOT copy Luffy's face, grin, head tilt, gaze direction, clothes or hat. CHARACTER: Asa Mitaka from Chainsaw Man. Period: Début de la deuxième partie. EXPRESSION AND COMPOSITION: FRONT, dark hair in two low pigtails, school blouse and pinafore, rigid shoulders, awkward serious expression with self-conscious eyes; not smiling confidently. No Yoru scars. Style: raw imperfect handmade black pen scratchwork, uneven doubled broken contours, asymmetry, loose construction marks, dry hatching, sparse muted watercolor washes bleeding past edges, warm ivory textured paper. Preserve recognizability of this specific character. Full head with generous paper margin, shoulders fade into paper. Empty background. No lettering, no watermark, no panel border. Avoid glossy clean digital anime, repeated generic smiles or identical poses."
+    },
+    {
+      "id": "cast-087",
+      "name": "Aki Hayakawa",
+      "manga": "Chainsaw Man",
+      "period": "Équipe initiale",
+      "pose": "RIGHT profile, black topknot, dark suit white shirt black tie, small ear studs, composed stern eyes, restrained sadness, closed mouth.",
+      "prompt": "Use case: illustration-story. Create ONE square head-and-shoulders portrait for the Bureau des Destins quiz. The attached Luffy drawing is a reference for MATERIALS AND LINEWORK ONLY. Do NOT copy Luffy's face, grin, head tilt, gaze direction, clothes or hat. CHARACTER: Aki Hayakawa from Chainsaw Man. Period: Équipe initiale. EXPRESSION AND COMPOSITION: RIGHT profile, black topknot, dark suit white shirt black tie, small ear studs, composed stern eyes, restrained sadness, closed mouth. Style: raw imperfect handmade black pen scratchwork, uneven doubled broken contours, asymmetry, loose construction marks, dry hatching, sparse muted watercolor washes bleeding past edges, warm ivory textured paper. Preserve recognizability of this specific character. Full head with generous paper margin, shoulders fade into paper. Empty background. No lettering, no watermark, no panel border. Avoid glossy clean digital anime, repeated generic smiles or identical poses."
+    },
+    {
+      "id": "cast-088",
+      "name": "Power",
+      "manga": "Chainsaw Man",
+      "period": "Équipe initiale",
+      "pose": "Three-quarter LEFT chin up, long pale blond hair, two small red horns, cross-shaped pupils, white shirt black tie loose jacket, brash triumphant toothy grin; mischievous arrogance.",
+      "prompt": "Use case: illustration-story. Create ONE square head-and-shoulders portrait for the Bureau des Destins quiz. The attached Luffy drawing is a reference for MATERIALS AND LINEWORK ONLY. Do NOT copy Luffy's face, grin, head tilt, gaze direction, clothes or hat. CHARACTER: Power from Chainsaw Man. Period: Équipe initiale. EXPRESSION AND COMPOSITION: Three-quarter LEFT chin up, long pale blond hair, two small red horns, cross-shaped pupils, white shirt black tie loose jacket, brash triumphant toothy grin; mischievous arrogance. Style: raw imperfect handmade black pen scratchwork, uneven doubled broken contours, asymmetry, loose construction marks, dry hatching, sparse muted watercolor washes bleeding past edges, warm ivory textured paper. Preserve recognizability of this specific character. Full head with generous paper margin, shoulders fade into paper. Empty background. No lettering, no watermark, no panel border. Avoid glossy clean digital anime, repeated generic smiles or identical poses."
+    },
+    {
+      "id": "cast-089",
+      "name": "Kobeni Higashiyama",
+      "manga": "Chainsaw Man",
+      "period": "Première partie",
+      "pose": "FRONT slight tilt, short dark hair tied small ponytail, two hair clips, dark suit white shirt black tie, worried brows and tentative closed mouth, tense shoulders; anxious but alert.",
+      "prompt": "Use case: illustration-story. Create ONE square head-and-shoulders portrait for the Bureau des Destins quiz. The attached Luffy drawing is a reference for MATERIALS AND LINEWORK ONLY. Do NOT copy Luffy's face, grin, head tilt, gaze direction, clothes or hat. CHARACTER: Kobeni Higashiyama from Chainsaw Man. Period: Première partie. EXPRESSION AND COMPOSITION: FRONT slight tilt, short dark hair tied small ponytail, two hair clips, dark suit white shirt black tie, worried brows and tentative closed mouth, tense shoulders; anxious but alert. Style: raw imperfect handmade black pen scratchwork, uneven doubled broken contours, asymmetry, loose construction marks, dry hatching, sparse muted watercolor washes bleeding past edges, warm ivory textured paper. Preserve recognizability of this specific character. Full head with generous paper margin, shoulders fade into paper. Empty background. No lettering, no watermark, no panel border. Avoid glossy clean digital anime, repeated generic smiles or identical poses."
+    },
+    {
+      "id": "cast-091",
+      "name": "Tobio Kageyama",
+      "manga": "Haikyu!!",
+      "period": "Première année à Karasuno",
+      "pose": "Three-quarter RIGHT, straight short black hair, dark blue eyes, orange and black Karasuno volleyball jersey, focused intense gaze, blunt serious closed mouth.",
+      "prompt": "Use case: illustration-story. Create ONE square head-and-shoulders portrait for the Bureau des Destins quiz. The attached Luffy drawing is a reference for MATERIALS AND LINEWORK ONLY. Do NOT copy Luffy's face, grin, head tilt, gaze direction, clothes or hat. CHARACTER: Tobio Kageyama from Haikyu!!. Period: Première année à Karasuno. EXPRESSION AND COMPOSITION: Three-quarter RIGHT, straight short black hair, dark blue eyes, orange and black Karasuno volleyball jersey, focused intense gaze, blunt serious closed mouth. Style: raw imperfect handmade black pen scratchwork, uneven doubled broken contours, asymmetry, loose construction marks, dry hatching, sparse muted watercolor washes bleeding past edges, warm ivory textured paper. Preserve recognizability of this specific character. Full head with generous paper margin, shoulders fade into paper. Empty background. No lettering, no watermark, no panel border. Avoid glossy clean digital anime, repeated generic smiles or identical poses."
+    },
+    {
+      "id": "cast-092",
+      "name": "Kenma Kozume",
+      "manga": "Haikyu!!",
+      "period": "Premières rencontres avec Karasuno",
+      "pose": "LEFT profile with eyes glancing toward viewer, chin-length blond hair with dark roots, Nekoma red volleyball jersey, relaxed slouch, quiet analytical half-lidded eyes, neutral mouth.",
+      "prompt": "Use case: illustration-story. Create ONE square head-and-shoulders portrait for the Bureau des Destins quiz. The attached Luffy drawing is a reference for MATERIALS AND LINEWORK ONLY. Do NOT copy Luffy's face, grin, head tilt, gaze direction, clothes or hat. CHARACTER: Kenma Kozume from Haikyu!!. Period: Premières rencontres avec Karasuno. EXPRESSION AND COMPOSITION: LEFT profile with eyes glancing toward viewer, chin-length blond hair with dark roots, Nekoma red volleyball jersey, relaxed slouch, quiet analytical half-lidded eyes, neutral mouth. Style: raw imperfect handmade black pen scratchwork, uneven doubled broken contours, asymmetry, loose construction marks, dry hatching, sparse muted watercolor washes bleeding past edges, warm ivory textured paper. Preserve recognizability of this specific character. Full head with generous paper margin, shoulders fade into paper. Empty background. No lettering, no watermark, no panel border. Avoid glossy clean digital anime, repeated generic smiles or identical poses."
+    },
+    {
+      "id": "cast-093",
+      "name": "Kei Tsukishima",
+      "manga": "Haikyu!!",
+      "period": "Première année à Karasuno",
+      "pose": "FRONT chin slightly up, short blond hair, rectangular black glasses, Karasuno jersey, dry skeptical small one-sided smirk; detached intelligence.",
+      "prompt": "Use case: illustration-story. Create ONE square head-and-shoulders portrait for the Bureau des Destins quiz. The attached Luffy drawing is a reference for MATERIALS AND LINEWORK ONLY. Do NOT copy Luffy's face, grin, head tilt, gaze direction, clothes or hat. CHARACTER: Kei Tsukishima from Haikyu!!. Period: Première année à Karasuno. EXPRESSION AND COMPOSITION: FRONT chin slightly up, short blond hair, rectangular black glasses, Karasuno jersey, dry skeptical small one-sided smirk; detached intelligence. Style: raw imperfect handmade black pen scratchwork, uneven doubled broken contours, asymmetry, loose construction marks, dry hatching, sparse muted watercolor washes bleeding past edges, warm ivory textured paper. Preserve recognizability of this specific character. Full head with generous paper margin, shoulders fade into paper. Empty background. No lettering, no watermark, no panel border. Avoid glossy clean digital anime, repeated generic smiles or identical poses."
+    },
+    {
+      "id": "cast-094",
+      "name": "Tōru Oikawa",
+      "manga": "Haikyu!!",
+      "period": "Aoba Jōsai",
+      "pose": "Three-quarter LEFT, tousled brown hair, white and teal Aoba Johsai jersey, easy charming smile with sharp competitive eyes. No broad silly grin.",
+      "prompt": "Use case: illustration-story. Create ONE square head-and-shoulders portrait for the Bureau des Destins quiz. The attached Luffy drawing is a reference for MATERIALS AND LINEWORK ONLY. Do NOT copy Luffy's face, grin, head tilt, gaze direction, clothes or hat. CHARACTER: Tōru Oikawa from Haikyu!!. Period: Aoba Jōsai. EXPRESSION AND COMPOSITION: Three-quarter LEFT, tousled brown hair, white and teal Aoba Johsai jersey, easy charming smile with sharp competitive eyes. No broad silly grin. Style: raw imperfect handmade black pen scratchwork, uneven doubled broken contours, asymmetry, loose construction marks, dry hatching, sparse muted watercolor washes bleeding past edges, warm ivory textured paper. Preserve recognizability of this specific character. Full head with generous paper margin, shoulders fade into paper. Empty background. No lettering, no watermark, no panel border. Avoid glossy clean digital anime, repeated generic smiles or identical poses."
+    },
+    {
+      "id": "cast-096",
+      "name": "Arataka Reigen",
+      "manga": "Mob Psycho 100",
+      "period": "Premiers arcs",
+      "pose": "Three-quarter RIGHT, short sandy hair, gray suit pink tie, raised brow and persuasive knowing half-smile, confident salesman posture with human warmth.",
+      "prompt": "Use case: illustration-story. Create ONE square head-and-shoulders portrait for the Bureau des Destins quiz. The attached Luffy drawing is a reference for MATERIALS AND LINEWORK ONLY. Do NOT copy Luffy's face, grin, head tilt, gaze direction, clothes or hat. CHARACTER: Arataka Reigen from Mob Psycho 100. Period: Premiers arcs. EXPRESSION AND COMPOSITION: Three-quarter RIGHT, short sandy hair, gray suit pink tie, raised brow and persuasive knowing half-smile, confident salesman posture with human warmth. Style: raw imperfect handmade black pen scratchwork, uneven doubled broken contours, asymmetry, loose construction marks, dry hatching, sparse muted watercolor washes bleeding past edges, warm ivory textured paper. Preserve recognizability of this specific character. Full head with generous paper margin, shoulders fade into paper. Empty background. No lettering, no watermark, no panel border. Avoid glossy clean digital anime, repeated generic smiles or identical poses."
+    },
+    {
+      "id": "cast-097",
+      "name": "Ritsu Kageyama",
+      "manga": "Mob Psycho 100",
+      "period": "Premier arc de Ritsu",
+      "pose": "FRONT, short spiky black hair, black stand-collar school uniform, guarded serious expression, anxious tension beneath composure.",
+      "prompt": "Use case: illustration-story. Create ONE square head-and-shoulders portrait for the Bureau des Destins quiz. The attached Luffy drawing is a reference for MATERIALS AND LINEWORK ONLY. Do NOT copy Luffy's face, grin, head tilt, gaze direction, clothes or hat. CHARACTER: Ritsu Kageyama from Mob Psycho 100. Period: Premier arc de Ritsu. EXPRESSION AND COMPOSITION: FRONT, short spiky black hair, black stand-collar school uniform, guarded serious expression, anxious tension beneath composure. Style: raw imperfect handmade black pen scratchwork, uneven doubled broken contours, asymmetry, loose construction marks, dry hatching, sparse muted watercolor washes bleeding past edges, warm ivory textured paper. Preserve recognizability of this specific character. Full head with generous paper margin, shoulders fade into paper. Empty background. No lettering, no watermark, no panel border. Avoid glossy clean digital anime, repeated generic smiles or identical poses."
+    },
+    {
+      "id": "cast-098",
+      "name": "Teruki Hanazawa",
+      "manga": "Mob Psycho 100",
+      "period": "Après la rencontre avec Mob",
+      "pose": "Three-quarter LEFT, short blond hair, school uniform, modest friendly smile and attentive eyes; after meeting Mob, confidence softened, no towering wig.",
+      "prompt": "Use case: illustration-story. Create ONE square head-and-shoulders portrait for the Bureau des Destins quiz. The attached Luffy drawing is a reference for MATERIALS AND LINEWORK ONLY. Do NOT copy Luffy's face, grin, head tilt, gaze direction, clothes or hat. CHARACTER: Teruki Hanazawa from Mob Psycho 100. Period: Après la rencontre avec Mob. EXPRESSION AND COMPOSITION: Three-quarter LEFT, short blond hair, school uniform, modest friendly smile and attentive eyes; after meeting Mob, confidence softened, no towering wig. Style: raw imperfect handmade black pen scratchwork, uneven doubled broken contours, asymmetry, loose construction marks, dry hatching, sparse muted watercolor washes bleeding past edges, warm ivory textured paper. Preserve recognizability of this specific character. Full head with generous paper margin, shoulders fade into paper. Empty background. No lettering, no watermark, no panel border. Avoid glossy clean digital anime, repeated generic smiles or identical poses."
+    },
+    {
+      "id": "cast-099",
+      "name": "Light Yagami",
+      "manga": "Death Note",
+      "period": "Duel avec L",
+      "pose": "Three-quarter RIGHT, neatly swept light brown hair, white shirt red tie beige blazer, calm controlled small smile, calculating attentive eyes; human and composed, no evil caricature.",
+      "prompt": "Use case: illustration-story. Create ONE square head-and-shoulders portrait for the Bureau des Destins quiz. The attached Luffy drawing is a reference for MATERIALS AND LINEWORK ONLY. Do NOT copy Luffy's face, grin, head tilt, gaze direction, clothes or hat. CHARACTER: Light Yagami from Death Note. Period: Duel avec L. EXPRESSION AND COMPOSITION: Three-quarter RIGHT, neatly swept light brown hair, white shirt red tie beige blazer, calm controlled small smile, calculating attentive eyes; human and composed, no evil caricature. Style: raw imperfect handmade black pen scratchwork, uneven doubled broken contours, asymmetry, loose construction marks, dry hatching, sparse muted watercolor washes bleeding past edges, warm ivory textured paper. Preserve recognizability of this specific character. Full head with generous paper margin, shoulders fade into paper. Empty background. No lettering, no watermark, no panel border. Avoid glossy clean digital anime, repeated generic smiles or identical poses."
+    },
+    {
+      "id": "cast-100",
+      "name": "L Lawliet",
+      "manga": "Death Note",
+      "period": "Enquête Kira",
+      "pose": "FRONT head slightly bowed, messy black hair, heavy dark eye shadows, loose white shirt, wide analytical eyes looking up, mouth neutral, slight shoulder hunch.",
+      "prompt": "Use case: illustration-story. Create ONE square head-and-shoulders portrait for the Bureau des Destins quiz. The attached Luffy drawing is a reference for MATERIALS AND LINEWORK ONLY. Do NOT copy Luffy's face, grin, head tilt, gaze direction, clothes or hat. CHARACTER: L Lawliet from Death Note. Period: Enquête Kira. EXPRESSION AND COMPOSITION: FRONT head slightly bowed, messy black hair, heavy dark eye shadows, loose white shirt, wide analytical eyes looking up, mouth neutral, slight shoulder hunch. Style: raw imperfect handmade black pen scratchwork, uneven doubled broken contours, asymmetry, loose construction marks, dry hatching, sparse muted watercolor washes bleeding past edges, warm ivory textured paper. Preserve recognizability of this specific character. Full head with generous paper margin, shoulders fade into paper. Empty background. No lettering, no watermark, no panel border. Avoid glossy clean digital anime, repeated generic smiles or identical poses."
+    },
+    {
+      "id": "cast-101",
+      "name": "Misa Amane",
+      "manga": "Death Note",
+      "period": "Première partie",
+      "pose": "Three-quarter LEFT lively tilt, blond twin ponytails with black ribbons, modest gothic black clothing, confident affectionate playful smile, not seductive.",
+      "prompt": "Use case: illustration-story. Create ONE square head-and-shoulders portrait for the Bureau des Destins quiz. The attached Luffy drawing is a reference for MATERIALS AND LINEWORK ONLY. Do NOT copy Luffy's face, grin, head tilt, gaze direction, clothes or hat. CHARACTER: Misa Amane from Death Note. Period: Première partie. EXPRESSION AND COMPOSITION: Three-quarter LEFT lively tilt, blond twin ponytails with black ribbons, modest gothic black clothing, confident affectionate playful smile, not seductive. Style: raw imperfect handmade black pen scratchwork, uneven doubled broken contours, asymmetry, loose construction marks, dry hatching, sparse muted watercolor washes bleeding past edges, warm ivory textured paper. Preserve recognizability of this specific character. Full head with generous paper margin, shoulders fade into paper. Empty background. No lettering, no watermark, no panel border. Avoid glossy clean digital anime, repeated generic smiles or identical poses."
+    },
+    {
+      "id": "cast-102",
+      "name": "Near",
+      "manga": "Death Note",
+      "period": "Deuxième partie",
+      "pose": "RIGHT profile eyes down, fluffy white hair, loose white shirt, thoughtful detached calm, one fingertip near a lock of hair; no toys or lettering.",
+      "prompt": "Use case: illustration-story. Create ONE square head-and-shoulders portrait for the Bureau des Destins quiz. The attached Luffy drawing is a reference for MATERIALS AND LINEWORK ONLY. Do NOT copy Luffy's face, grin, head tilt, gaze direction, clothes or hat. CHARACTER: Near from Death Note. Period: Deuxième partie. EXPRESSION AND COMPOSITION: RIGHT profile eyes down, fluffy white hair, loose white shirt, thoughtful detached calm, one fingertip near a lock of hair; no toys or lettering. Style: raw imperfect handmade black pen scratchwork, uneven doubled broken contours, asymmetry, loose construction marks, dry hatching, sparse muted watercolor washes bleeding past edges, warm ivory textured paper. Preserve recognizability of this specific character. Full head with generous paper margin, shoulders fade into paper. Empty background. No lettering, no watermark, no panel border. Avoid glossy clean digital anime, repeated generic smiles or identical poses."
+    },
+    {
+      "id": "cast-103",
+      "name": "Thorfinn",
+      "manga": "Vinland Saga",
+      "period": "Arc de la ferme",
+      "pose": "Three-quarter LEFT, FARM ARC adult Thorfinn with short messy blond hair and light beard, worn simple brown tunic, tired gentle resolute eyes, small closed mouth, no weapons.",
+      "prompt": "Use case: illustration-story. Create ONE square head-and-shoulders portrait for the Bureau des Destins quiz. The attached Luffy drawing is a reference for MATERIALS AND LINEWORK ONLY. Do NOT copy Luffy's face, grin, head tilt, gaze direction, clothes or hat. CHARACTER: Thorfinn from Vinland Saga. Period: Arc de la ferme. EXPRESSION AND COMPOSITION: Three-quarter LEFT, FARM ARC adult Thorfinn with short messy blond hair and light beard, worn simple brown tunic, tired gentle resolute eyes, small closed mouth, no weapons. Style: raw imperfect handmade black pen scratchwork, uneven doubled broken contours, asymmetry, loose construction marks, dry hatching, sparse muted watercolor washes bleeding past edges, warm ivory textured paper. Preserve recognizability of this specific character. Full head with generous paper margin, shoulders fade into paper. Empty background. No lettering, no watermark, no panel border. Avoid glossy clean digital anime, repeated generic smiles or identical poses."
+    },
+    {
+      "id": "cast-104",
+      "name": "Askeladd",
+      "manga": "Vinland Saga",
+      "period": "Prologue",
+      "pose": "FRONT chin slightly raised, middle-aged Askeladd with short receding blond hair and stubble, practical dark leather armor, shrewd wry half-smile, watchful eyes.",
+      "prompt": "Use case: illustration-story. Create ONE square head-and-shoulders portrait for the Bureau des Destins quiz. The attached Luffy drawing is a reference for MATERIALS AND LINEWORK ONLY. Do NOT copy Luffy's face, grin, head tilt, gaze direction, clothes or hat. CHARACTER: Askeladd from Vinland Saga. Period: Prologue. EXPRESSION AND COMPOSITION: FRONT chin slightly raised, middle-aged Askeladd with short receding blond hair and stubble, practical dark leather armor, shrewd wry half-smile, watchful eyes. Style: raw imperfect handmade black pen scratchwork, uneven doubled broken contours, asymmetry, loose construction marks, dry hatching, sparse muted watercolor washes bleeding past edges, warm ivory textured paper. Preserve recognizability of this specific character. Full head with generous paper margin, shoulders fade into paper. Empty background. No lettering, no watermark, no panel border. Avoid glossy clean digital anime, repeated generic smiles or identical poses."
+    },
+    {
+      "id": "cast-105",
+      "name": "Canute",
+      "manga": "Vinland Saga",
+      "period": "Début du règne",
+      "pose": "Three-quarter RIGHT, young king Canute early reign, short blond hair, small gold crown, fur-trimmed cloak, calm firm calculating gaze, closed mouth; no shy long-haired prince.",
+      "prompt": "Use case: illustration-story. Create ONE square head-and-shoulders portrait for the Bureau des Destins quiz. The attached Luffy drawing is a reference for MATERIALS AND LINEWORK ONLY. Do NOT copy Luffy's face, grin, head tilt, gaze direction, clothes or hat. CHARACTER: Canute from Vinland Saga. Period: Début du règne. EXPRESSION AND COMPOSITION: Three-quarter RIGHT, young king Canute early reign, short blond hair, small gold crown, fur-trimmed cloak, calm firm calculating gaze, closed mouth; no shy long-haired prince. Style: raw imperfect handmade black pen scratchwork, uneven doubled broken contours, asymmetry, loose construction marks, dry hatching, sparse muted watercolor washes bleeding past edges, warm ivory textured paper. Preserve recognizability of this specific character. Full head with generous paper margin, shoulders fade into paper. Empty background. No lettering, no watermark, no panel border. Avoid glossy clean digital anime, repeated generic smiles or identical poses."
+    },
+    {
+      "id": "cast-106",
+      "name": "Einar",
+      "manga": "Vinland Saga",
+      "period": "Arc de la ferme",
+      "pose": "Three-quarter LEFT, adult Einar farm arc, sturdy build short reddish-brown hair and beard, rough earth-tone tunic, open warm smile with grounded determined eyes.",
+      "prompt": "Use case: illustration-story. Create ONE square head-and-shoulders portrait for the Bureau des Destins quiz. The attached Luffy drawing is a reference for MATERIALS AND LINEWORK ONLY. Do NOT copy Luffy's face, grin, head tilt, gaze direction, clothes or hat. CHARACTER: Einar from Vinland Saga. Period: Arc de la ferme. EXPRESSION AND COMPOSITION: Three-quarter LEFT, adult Einar farm arc, sturdy build short reddish-brown hair and beard, rough earth-tone tunic, open warm smile with grounded determined eyes. Style: raw imperfect handmade black pen scratchwork, uneven doubled broken contours, asymmetry, loose construction marks, dry hatching, sparse muted watercolor washes bleeding past edges, warm ivory textured paper. Preserve recognizability of this specific character. Full head with generous paper margin, shoulders fade into paper. Empty background. No lettering, no watermark, no panel border. Avoid glossy clean digital anime, repeated generic smiles or identical poses."
+    },
+    {
+      "id": "cast-107",
+      "name": "Eren Yeager",
+      "manga": "Attack on Titan",
+      "period": "Avant le sous-sol",
+      "pose": "FRONT, teenage Eren before basement, short brown hair, green eyes, brown scout jacket, intense determined expression, knitted brows, no adult long hair.",
+      "prompt": "Use case: illustration-story. Create ONE square head-and-shoulders portrait for the Bureau des Destins quiz. The attached Luffy drawing is a reference for MATERIALS AND LINEWORK ONLY. Do NOT copy Luffy's face, grin, head tilt, gaze direction, clothes or hat. CHARACTER: Eren Yeager from Attack on Titan. Period: Avant le sous-sol. EXPRESSION AND COMPOSITION: FRONT, teenage Eren before basement, short brown hair, green eyes, brown scout jacket, intense determined expression, knitted brows, no adult long hair. Style: raw imperfect handmade black pen scratchwork, uneven doubled broken contours, asymmetry, loose construction marks, dry hatching, sparse muted watercolor washes bleeding past edges, warm ivory textured paper. Preserve recognizability of this specific character. Full head with generous paper margin, shoulders fade into paper. Empty background. No lettering, no watermark, no panel border. Avoid glossy clean digital anime, repeated generic smiles or identical poses."
+    },
+    {
+      "id": "cast-108",
+      "name": "Armin Arlert",
+      "manga": "Attack on Titan",
+      "period": "Avant le sous-sol",
+      "pose": "Three-quarter RIGHT, teenage Armin before basement with blond bob, blue eyes, brown scout jacket, thoughtful slightly anxious gaze, small hopeful closed-mouth smile.",
+      "prompt": "Use case: illustration-story. Create ONE square head-and-shoulders portrait for the Bureau des Destins quiz. The attached Luffy drawing is a reference for MATERIALS AND LINEWORK ONLY. Do NOT copy Luffy's face, grin, head tilt, gaze direction, clothes or hat. CHARACTER: Armin Arlert from Attack on Titan. Period: Avant le sous-sol. EXPRESSION AND COMPOSITION: Three-quarter RIGHT, teenage Armin before basement with blond bob, blue eyes, brown scout jacket, thoughtful slightly anxious gaze, small hopeful closed-mouth smile. Style: raw imperfect handmade black pen scratchwork, uneven doubled broken contours, asymmetry, loose construction marks, dry hatching, sparse muted watercolor washes bleeding past edges, warm ivory textured paper. Preserve recognizability of this specific character. Full head with generous paper margin, shoulders fade into paper. Empty background. No lettering, no watermark, no panel border. Avoid glossy clean digital anime, repeated generic smiles or identical poses."
+    },
+    {
+      "id": "cast-109",
+      "name": "Mikasa Ackerman",
+      "manga": "Attack on Titan",
+      "period": "Avant le sous-sol",
+      "pose": "LEFT profile glancing ahead, short black bob, gray eyes, red scarf and brown scout jacket, calm fiercely protective focus, closed mouth.",
+      "prompt": "Use case: illustration-story. Create ONE square head-and-shoulders portrait for the Bureau des Destins quiz. The attached Luffy drawing is a reference for MATERIALS AND LINEWORK ONLY. Do NOT copy Luffy's face, grin, head tilt, gaze direction, clothes or hat. CHARACTER: Mikasa Ackerman from Attack on Titan. Period: Avant le sous-sol. EXPRESSION AND COMPOSITION: LEFT profile glancing ahead, short black bob, gray eyes, red scarf and brown scout jacket, calm fiercely protective focus, closed mouth. Style: raw imperfect handmade black pen scratchwork, uneven doubled broken contours, asymmetry, loose construction marks, dry hatching, sparse muted watercolor washes bleeding past edges, warm ivory textured paper. Preserve recognizability of this specific character. Full head with generous paper margin, shoulders fade into paper. Empty background. No lettering, no watermark, no panel border. Avoid glossy clean digital anime, repeated generic smiles or identical poses."
+    },
+    {
+      "id": "cast-110",
+      "name": "Levi Ackerman",
+      "manga": "Attack on Titan",
+      "period": "Bataillon d’exploration",
+      "pose": "Three-quarter RIGHT, adult Levi with black undercut and side-parted bangs, narrow gray eyes, white cravat brown scout jacket, tired stern unimpressed gaze, no smile.",
+      "prompt": "Use case: illustration-story. Create ONE square head-and-shoulders portrait for the Bureau des Destins quiz. The attached Luffy drawing is a reference for MATERIALS AND LINEWORK ONLY. Do NOT copy Luffy's face, grin, head tilt, gaze direction, clothes or hat. CHARACTER: Levi Ackerman from Attack on Titan. Period: Bataillon d’exploration. EXPRESSION AND COMPOSITION: Three-quarter RIGHT, adult Levi with black undercut and side-parted bangs, narrow gray eyes, white cravat brown scout jacket, tired stern unimpressed gaze, no smile. Style: raw imperfect handmade black pen scratchwork, uneven doubled broken contours, asymmetry, loose construction marks, dry hatching, sparse muted watercolor washes bleeding past edges, warm ivory textured paper. Preserve recognizability of this specific character. Full head with generous paper margin, shoulders fade into paper. Empty background. No lettering, no watermark, no panel border. Avoid glossy clean digital anime, repeated generic smiles or identical poses."
+    },
+    {
+      "id": "cast-111",
+      "name": "Hange Zoë",
+      "manga": "Attack on Titan",
+      "period": "Avant la prise de commandement",
+      "pose": "FRONT slight animated tilt, brown hair in ponytail, rectangular glasses, brown scout jacket, bright fascinated eyes and small excited open smile; curious scientist, no eyepatch.",
+      "prompt": "Use case: illustration-story. Create ONE square head-and-shoulders portrait for the Bureau des Destins quiz. The attached Luffy drawing is a reference for MATERIALS AND LINEWORK ONLY. Do NOT copy Luffy's face, grin, head tilt, gaze direction, clothes or hat. CHARACTER: Hange Zoë from Attack on Titan. Period: Avant la prise de commandement. EXPRESSION AND COMPOSITION: FRONT slight animated tilt, brown hair in ponytail, rectangular glasses, brown scout jacket, bright fascinated eyes and small excited open smile; curious scientist, no eyepatch. Style: raw imperfect handmade black pen scratchwork, uneven doubled broken contours, asymmetry, loose construction marks, dry hatching, sparse muted watercolor washes bleeding past edges, warm ivory textured paper. Preserve recognizability of this specific character. Full head with generous paper margin, shoulders fade into paper. Empty background. No lettering, no watermark, no panel border. Avoid glossy clean digital anime, repeated generic smiles or identical poses."
+    },
+    {
+      "id": "cast-112",
+      "name": "Hanamichi Sakuragi",
+      "manga": "Slam Dunk",
+      "period": "Saison à Shohoku",
+      "pose": "Three-quarter LEFT chin up, tall athletic teenage Sakuragi with short red buzzcut, red Shohoku basketball jersey, exuberant boastful broad grin, thick expressive brows.",
+      "prompt": "Use case: illustration-story. Create ONE square head-and-shoulders portrait for the Bureau des Destins quiz. The attached Luffy drawing is a reference for MATERIALS AND LINEWORK ONLY. Do NOT copy Luffy's face, grin, head tilt, gaze direction, clothes or hat. CHARACTER: Hanamichi Sakuragi from Slam Dunk. Period: Saison à Shohoku. EXPRESSION AND COMPOSITION: Three-quarter LEFT chin up, tall athletic teenage Sakuragi with short red buzzcut, red Shohoku basketball jersey, exuberant boastful broad grin, thick expressive brows. Style: raw imperfect handmade black pen scratchwork, uneven doubled broken contours, asymmetry, loose construction marks, dry hatching, sparse muted watercolor washes bleeding past edges, warm ivory textured paper. Preserve recognizability of this specific character. Full head with generous paper margin, shoulders fade into paper. Empty background. No lettering, no watermark, no panel border. Avoid glossy clean digital anime, repeated generic smiles or identical poses."
+    },
+    {
+      "id": "cast-113",
+      "name": "Kaede Rukawa",
+      "manga": "Slam Dunk",
+      "period": "Saison à Shohoku",
+      "pose": "RIGHT profile, teenage Rukawa with straight black fringe, red Shohoku jersey, cool sleepy focused eyes, neutral mouth; no smile.",
+      "prompt": "Use case: illustration-story. Create ONE square head-and-shoulders portrait for the Bureau des Destins quiz. The attached Luffy drawing is a reference for MATERIALS AND LINEWORK ONLY. Do NOT copy Luffy's face, grin, head tilt, gaze direction, clothes or hat. CHARACTER: Kaede Rukawa from Slam Dunk. Period: Saison à Shohoku. EXPRESSION AND COMPOSITION: RIGHT profile, teenage Rukawa with straight black fringe, red Shohoku jersey, cool sleepy focused eyes, neutral mouth; no smile. Style: raw imperfect handmade black pen scratchwork, uneven doubled broken contours, asymmetry, loose construction marks, dry hatching, sparse muted watercolor washes bleeding past edges, warm ivory textured paper. Preserve recognizability of this specific character. Full head with generous paper margin, shoulders fade into paper. Empty background. No lettering, no watermark, no panel border. Avoid glossy clean digital anime, repeated generic smiles or identical poses."
+    },
+    {
+      "id": "cast-114",
+      "name": "Takenori Akagi",
+      "manga": "Slam Dunk",
+      "period": "Saison à Shohoku",
+      "pose": "FRONT, broad muscular teenage Akagi with short flat-top black hair, red basketball jersey, strong jaw, strict resolute gaze with protective seriousness.",
+      "prompt": "Use case: illustration-story. Create ONE square head-and-shoulders portrait for the Bureau des Destins quiz. The attached Luffy drawing is a reference for MATERIALS AND LINEWORK ONLY. Do NOT copy Luffy's face, grin, head tilt, gaze direction, clothes or hat. CHARACTER: Takenori Akagi from Slam Dunk. Period: Saison à Shohoku. EXPRESSION AND COMPOSITION: FRONT, broad muscular teenage Akagi with short flat-top black hair, red basketball jersey, strong jaw, strict resolute gaze with protective seriousness. Style: raw imperfect handmade black pen scratchwork, uneven doubled broken contours, asymmetry, loose construction marks, dry hatching, sparse muted watercolor washes bleeding past edges, warm ivory textured paper. Preserve recognizability of this specific character. Full head with generous paper margin, shoulders fade into paper. Empty background. No lettering, no watermark, no panel border. Avoid glossy clean digital anime, repeated generic smiles or identical poses."
+    },
+    {
+      "id": "cast-115",
+      "name": "Hisashi Mitsui",
+      "manga": "Slam Dunk",
+      "period": "Retour dans l’équipe",
+      "pose": "Three-quarter RIGHT, teenage Mitsui after return with short dark hair and small chin scar, red Shohoku jersey, tired determined eyes and modest resilient half-smile.",
+      "prompt": "Use case: illustration-story. Create ONE square head-and-shoulders portrait for the Bureau des Destins quiz. The attached Luffy drawing is a reference for MATERIALS AND LINEWORK ONLY. Do NOT copy Luffy's face, grin, head tilt, gaze direction, clothes or hat. CHARACTER: Hisashi Mitsui from Slam Dunk. Period: Retour dans l’équipe. EXPRESSION AND COMPOSITION: Three-quarter RIGHT, teenage Mitsui after return with short dark hair and small chin scar, red Shohoku jersey, tired determined eyes and modest resilient half-smile. Style: raw imperfect handmade black pen scratchwork, uneven doubled broken contours, asymmetry, loose construction marks, dry hatching, sparse muted watercolor washes bleeding past edges, warm ivory textured paper. Preserve recognizability of this specific character. Full head with generous paper margin, shoulders fade into paper. Empty background. No lettering, no watermark, no panel border. Avoid glossy clean digital anime, repeated generic smiles or identical poses."
+    },
+    {
+      "id": "cast-116",
+      "name": "Makoto Tsukimoto",
+      "manga": "Ping Pong",
+      "period": "Première partie",
+      "pose": "Three-quarter LEFT eyes slightly down, Makoto Tsukimoto / Smile, dark bowl-cut hair, thin rectangular glasses, plain sports polo, reserved unreadable closed mouth, quiet attentive eyes.",
+      "prompt": "Use case: illustration-story. Create ONE square head-and-shoulders portrait for the Bureau des Destins quiz. The attached Luffy drawing is a reference for MATERIALS AND LINEWORK ONLY. Do NOT copy Luffy's face, grin, head tilt, gaze direction, clothes or hat. CHARACTER: Makoto Tsukimoto from Ping Pong. Period: Première partie. EXPRESSION AND COMPOSITION: Three-quarter LEFT eyes slightly down, Makoto Tsukimoto / Smile, dark bowl-cut hair, thin rectangular glasses, plain sports polo, reserved unreadable closed mouth, quiet attentive eyes. Style: raw imperfect handmade black pen scratchwork, uneven doubled broken contours, asymmetry, loose construction marks, dry hatching, sparse muted watercolor washes bleeding past edges, warm ivory textured paper. Preserve recognizability of this specific character. Full head with generous paper margin, shoulders fade into paper. Empty background. No lettering, no watermark, no panel border. Avoid glossy clean digital anime, repeated generic smiles or identical poses."
+    }
+  ]
+}

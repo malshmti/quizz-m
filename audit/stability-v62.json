@@ -1,0 +1,199 @@
+{
+  "method": "100 parcours aléatoires reproductibles ; chaque réponse de facette est remplacée, quand cela est possible, par l’intensité voisine du même pôle (1 ↔ 2 ou −1 ↔ −2). Une modification à la fois, sélection adaptative conservée. Les réponses neutres sont exclues. Ce contrôle logiciel ne mesure pas la fidélité chez des joueurs réels.",
+  "total": 2562,
+  "changed": 451,
+  "questions": [
+    {
+      "id": "D08",
+      "title": "Choisir un séjour",
+      "total": 19,
+      "changed": 8
+    },
+    {
+      "id": "D03",
+      "title": "Un rangement sans urgence",
+      "total": 11,
+      "changed": 3
+    },
+    {
+      "id": "D04",
+      "title": "Un défi facultatif",
+      "total": 4,
+      "changed": 1
+    },
+    {
+      "id": "C02",
+      "title": "Le groupe attend",
+      "total": 100,
+      "changed": 22
+    },
+    {
+      "id": "C05",
+      "title": "Une place pour l’imprévu",
+      "total": 100,
+      "changed": 22
+    },
+    {
+      "id": "C09",
+      "title": "Une information à vérifier",
+      "total": 100,
+      "changed": 22
+    },
+    {
+      "id": "C17",
+      "title": "Deux occasions",
+      "total": 100,
+      "changed": 21
+    },
+    {
+      "id": "B08",
+      "title": "Une petite expérience",
+      "total": 100,
+      "changed": 21
+    },
+    {
+      "id": "D07",
+      "title": "Un repère de réussite",
+      "total": 73,
+      "changed": 15
+    },
+    {
+      "id": "C12",
+      "title": "Le défi entre amis",
+      "total": 100,
+      "changed": 20
+    },
+    {
+      "id": "D01",
+      "title": "Répartir une responsabilité",
+      "total": 10,
+      "changed": 2
+    },
+    {
+      "id": "X13",
+      "title": "Un atelier sans animateur",
+      "total": 100,
+      "changed": 19
+    },
+    {
+      "id": "C29",
+      "title": "Une semaine pour terminer",
+      "total": 100,
+      "changed": 19
+    },
+    {
+      "id": "C31",
+      "title": "Le projet qui patine",
+      "total": 100,
+      "changed": 19
+    },
+    {
+      "id": "B05",
+      "title": "Une promesse sans historique",
+      "total": 100,
+      "changed": 19
+    },
+    {
+      "id": "X03",
+      "title": "Une journée libre",
+      "total": 100,
+      "changed": 18
+    },
+    {
+      "id": "X09",
+      "title": "Un apprentissage qui résiste",
+      "total": 100,
+      "changed": 18
+    },
+    {
+      "id": "X15",
+      "title": "Les progrès d’un camarade",
+      "total": 100,
+      "changed": 18
+    },
+    {
+      "id": "B02",
+      "title": "Apprendre ensemble",
+      "total": 100,
+      "changed": 18
+    },
+    {
+      "id": "B01",
+      "title": "Une décision commune",
+      "total": 100,
+      "changed": 17
+    },
+    {
+      "id": "B03",
+      "title": "Préparer une rencontre",
+      "total": 100,
+      "changed": 17
+    },
+    {
+      "id": "B04",
+      "title": "Le passage difficile",
+      "total": 100,
+      "changed": 17
+    },
+    {
+      "id": "C38",
+      "title": "Le plan change",
+      "total": 100,
+      "changed": 16
+    },
+    {
+      "id": "B07",
+      "title": "Une réussite sans classement",
+      "total": 100,
+      "changed": 16
+    },
+    {
+      "id": "D05",
+      "title": "Un partenaire ponctuel",
+      "total": 26,
+      "changed": 4
+    },
+    {
+      "id": "B06",
+      "title": "Une idée qui te déplace",
+      "total": 100,
+      "changed": 15
+    },
+    {
+      "id": "X11",
+      "title": "Une tâche confiée",
+      "total": 100,
+      "changed": 14
+    },
+    {
+      "id": "C04",
+      "title": "Un projet à ta manière",
+      "total": 100,
+      "changed": 12
+    },
+    {
+      "id": "D06",
+      "title": "Un nouvel outil",
+      "total": 11,
+      "changed": 1
+    },
+    {
+      "id": "X01",
+      "title": "Une autre méthode",
+      "total": 100,
+      "changed": 9
+    },
+    {
+      "id": "C22",
+      "title": "Résoudre à plusieurs",
+      "total": 100,
+      "changed": 8
+    },
+    {
+      "id": "D02",
+      "title": "Préparer une présentation",
+      "total": 8,
+      "changed": 0
+    }
+  ]
+}

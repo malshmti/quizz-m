@@ -1,0 +1,14 @@
+{
+  "name": "erreur-de-casting",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Quiz narratif de personnalité — Bureau des Destins, 181 personnages de manga.",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "start": "node dev-server.cjs",
+    "dev": "node dev-server.cjs",
+    "test": "node scripts/test.cjs",
+    "build": "node scripts/build.cjs",
+    "portraits:sync": "node integrate-portraits.cjs"
+  }
+}

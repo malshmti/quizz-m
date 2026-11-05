@@ -1,0 +1,16 @@
+# Local archives and historical working copies
+/*.zip
+/*.png
+/edition-brute-v3/
+/Erreur_de_Casting_edition_illustree/
+/*.log
+/node_modules/
+/dist/
+/.env
+/.env.*
+!/.env.example
+/.DS_Store
+/Thumbs.db
+/.vscode/
+/.idea/
+Erreur_de_Casting_V1_Alpha_corrigee/_preview-result.html

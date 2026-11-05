@@ -1,0 +1,23 @@
+{
+  "mode": "built-in image_gen",
+  "characters": [
+    {
+      "id": "cast-179",
+      "name": "Bulma",
+      "subject": "Bulma from Dragon Ball, adult young scientist in Android saga, recognizable short turquoise bob haircut and expressive blue eyes, practical casual collared outfit. Three-quarter view toward viewer left, chin slightly raised, one eyebrow arched, shrewd confident half-smile conveying intelligence, impatience and resourcefulness. No seductive pose.",
+      "prompt": "Use case: illustration-story. ONE square head-and-shoulders portrait for Bureau des Destins quiz. Attached Luffy is MATERIALS AND LINEWORK reference ONLY: do not copy his face, pose, grin, clothes or hat. Raw imperfect handmade black pen scratchwork, uneven doubled broken contours, asymmetry, loose construction marks, dry hatching, sparse muted watercolor washes bleeding past edges, warm ivory textured paper. Recognizable character. Full head with generous paper margin, shoulders fade into paper, empty background, no text or watermark. Avoid clean digital anime. Subject: Bulma from Dragon Ball, adult young scientist in Android saga, recognizable short turquoise bob haircut and expressive blue eyes, practical casual collared outfit. Three-quarter view toward viewer left, chin slightly raised, one eyebrow arched, shrewd confident half-smile conveying intelligence, impatience and resourcefulness. No seductive pose."
+    },
+    {
+      "id": "cast-180",
+      "name": "Krilin",
+      "subject": "Krillin (Krilin) from Dragon Ball, adult bald martial artist, six incense dots on forehead in two columns, distinctive noseless face, orange gi and dark blue undershirt. Nearly frontal with head slightly tilted, eyes looking toward viewer right, warm modest closed-mouth smile and slightly worried eyebrows, kind loyal courage rather than swagger. Keep all six dots visible.",
+      "prompt": "Use case: illustration-story. ONE square head-and-shoulders portrait for Bureau des Destins quiz. Attached Luffy is MATERIALS AND LINEWORK reference ONLY: do not copy his face, pose, grin, clothes or hat. Raw imperfect handmade black pen scratchwork, uneven doubled broken contours, asymmetry, loose construction marks, dry hatching, sparse muted watercolor washes bleeding past edges, warm ivory textured paper. Recognizable character. Full head with generous paper margin, shoulders fade into paper, empty background, no text or watermark. Avoid clean digital anime. Subject: Krillin (Krilin) from Dragon Ball, adult bald martial artist, six incense dots on forehead in two columns, distinctive noseless face, orange gi and dark blue undershirt. Nearly frontal with head slightly tilted, eyes looking toward viewer right, warm modest closed-mouth smile and slightly worried eyebrows, kind loyal courage rather than swagger. Keep all six dots visible."
+    },
+    {
+      "id": "cast-181",
+      "name": "Trunks",
+      "subject": "Future Trunks from Dragon Ball Cell saga, young adult man, straight lavender hair parted centrally at ear length, blue cropped jacket high collar over black shirt, sword hilt visible behind one shoulder. Three-quarter view facing viewer right, eyes looking down slightly, serious composed thoughtful expression with quiet resolve and sadness, no smirk or grin. Base form not Super Saiyan.",
+      "prompt": "Use case: illustration-story. ONE square head-and-shoulders portrait for Bureau des Destins quiz. Attached Luffy is MATERIALS AND LINEWORK reference ONLY: do not copy his face, pose, grin, clothes or hat. Raw imperfect handmade black pen scratchwork, uneven doubled broken contours, asymmetry, loose construction marks, dry hatching, sparse muted watercolor washes bleeding past edges, warm ivory textured paper. Recognizable character. Full head with generous paper margin, shoulders fade into paper, empty background, no text or watermark. Avoid clean digital anime. Subject: Future Trunks from Dragon Ball Cell saga, young adult man, straight lavender hair parted centrally at ear length, blue cropped jacket high collar over black shirt, sword hilt visible behind one shoulder. Three-quarter view facing viewer right, eyes looking down slightly, serious composed thoughtful expression with quiet resolve and sadness, no smirk or grin. Base form not Super Saiyan."
+    }
+  ]
+}

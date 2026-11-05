@@ -1,0 +1,37 @@
+{
+  "tool": "image_gen built-in",
+  "portraits": [
+    {
+      "id": "cast-002",
+      "prompt": "Recompose this portrait of Nico Robin. This image is the existing portrait to REPLACE, preserving character identity, rough scratchy black pen, doubled irregular contours, sparse muted watercolor and warm ivory paper. CRITICAL CHANGE: STRICT SIDE PROFILE facing LEFT, nose pointing toward left edge, eyes looking left and slightly down, long black hair with bangs falling down her back, serene faint closed-mouth smile. One eye visible. Neck upright.. The new head orientation must be visibly different from the source. Square portrait, head and upper shoulders fully in frame with paper margins. Draw an authentic new pose, do not just mirror the source. Handmade imperfect expressive sketch, not polished anime. No text, no border, no props beyond those specified. "
+    },
+    {
+      "id": "cast-003",
+      "prompt": "Recompose this portrait of Nami. This image is the existing portrait to REPLACE, preserving character identity, rough scratchy black pen, doubled irregular contours, sparse muted watercolor and warm ivory paper. CRITICAL CHANGE: THREE-QUARTER facing RIGHT, nose displaced to the right of face center, chin slightly down, eyes glancing sharply to the right, confident crooked CLOSED-mouth smile. Short orange hair. Shoulders rotated right, one shoulder nearer the viewer.. The new head orientation must be visibly different from the source. Square portrait, head and upper shoulders fully in frame with paper margins. Draw an authentic new pose, do not just mirror the source. Handmade imperfect expressive sketch, not polished anime. No text, no border, no props beyond those specified. "
+    },
+    {
+      "id": "cast-004",
+      "prompt": "Recompose this portrait of Sanji. This image is the existing portrait to REPLACE, preserving character identity, rough scratchy black pen, doubled irregular contours, sparse muted watercolor and warm ivory paper. CRITICAL CHANGE: STRICT SIDE PROFILE facing RIGHT, only one eye visible, long nose pointing to right edge, chin level, cigarette extending toward right. Blond fringe, curled eyebrow, small goatee, black suit. Quiet thoughtful expression, CLOSED lips around cigarette, no broad grin.. The new head orientation must be visibly different from the source. Square portrait, head and upper shoulders fully in frame with paper margins. Draw an authentic new pose, do not just mirror the source. Handmade imperfect expressive sketch, not polished anime. No text, no border, no props beyond those specified. "
+    },
+    {
+      "id": "cast-005",
+      "prompt": "Recompose this portrait of Naruto Uzumaki in part one. This image is the existing portrait to REPLACE, preserving character identity, rough scratchy black pen, doubled irregular contours, sparse muted watercolor and warm ivory paper. CRITICAL CHANGE: EXACTLY FRONT-FACING, head perfectly upright and level, nose centered, both eyes open looking directly at viewer, mischievous wide grin. Shoulders square, no head tilt or three-quarter orientation. Blond spiky hair, leaf forehead protector, early orange and blue jacket.. The new head orientation must be visibly different from the source. Square portrait, head and upper shoulders fully in frame with paper margins. Draw an authentic new pose, do not just mirror the source. Handmade imperfect expressive sketch, not polished anime. No text, no border, no props beyond those specified. "
+    },
+    {
+      "id": "cast-006",
+      "prompt": "Recompose this portrait of Shikamaru Nara. This image is the existing portrait to REPLACE, preserving character identity, rough scratchy black pen, doubled irregular contours, sparse muted watercolor and warm ivory paper. CRITICAL CHANGE: THREE-QUARTER facing LEFT, head slightly bowed, nose pointing down-left, half-lidded eyes looking down-left, resigned neutral mouth. Shoulders slumped. Black spiky ponytail, green ninja vest. No upward gaze.. The new head orientation must be visibly different from the source. Square portrait, head and upper shoulders fully in frame with paper margins. Draw an authentic new pose, do not just mirror the source. Handmade imperfect expressive sketch, not polished anime. No text, no border, no props beyond those specified. "
+    },
+    {
+      "id": "cast-007",
+      "prompt": "Recompose this portrait of Sakura Haruno. This image is the existing portrait to REPLACE, preserving character identity, rough scratchy black pen, doubled irregular contours, sparse muted watercolor and warm ivory paper. CRITICAL CHANGE: EXACTLY FRONT-FACING head upright, chin a little lowered, green eyes looking directly at viewer, calm focused CLOSED-mouth expression, no smile or sweat drops. Short pink hair, red medical-training outfit. Shoulders level.. The new head orientation must be visibly different from the source. Square portrait, head and upper shoulders fully in frame with paper margins. Draw an authentic new pose, do not just mirror the source. Handmade imperfect expressive sketch, not polished anime. No text, no border, no props beyond those specified. "
+    },
+    {
+      "id": "cast-008",
+      "prompt": "Recompose this portrait of Itachi Uchiha. This image is the existing portrait to REPLACE, preserving character identity, rough scratchy black pen, doubled irregular contours, sparse muted watercolor and warm ivory paper. CRITICAL CHANGE: THREE-QUARTER facing RIGHT, head bowed, nose pointing down-right, eyes looking down toward the right edge, grave and withdrawn expression. Long black hair, slashed leaf forehead protector, Akatsuki high collar. Strong asymmetry in visible cheeks; no upward gaze.. The new head orientation must be visibly different from the source. Square portrait, head and upper shoulders fully in frame with paper margins. Draw an authentic new pose, do not just mirror the source. Handmade imperfect expressive sketch, not polished anime. No text, no border, no props beyond those specified. "
+    },
+    {
+      "id": "cast-009",
+      "prompt": "Recompose this portrait of Ichigo Kurosaki. This image is the existing portrait to REPLACE, preserving character identity, rough scratchy black pen, doubled irregular contours, sparse muted watercolor and warm ivory paper. CRITICAL CHANGE: THREE-QUARTER facing LEFT, chin level, nose pointing LEFT, eyes watching the left edge of the image with quiet alertness, CLOSED mouth, no grimace. Orange spiky hair, black shinigami robe. Torso and shoulders turned LEFT.. The new head orientation must be visibly different from the source. Square portrait, head and upper shoulders fully in frame with paper margins. Draw an authentic new pose, do not just mirror the source. Handmade imperfect expressive sketch, not polished anime. No text, no border, no props beyond those specified. "
+    }
+  ]
+}
