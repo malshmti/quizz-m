@@ -55,9 +55,18 @@ Le nom historique du dossier web est conservé pour préserver les chemins des o
 
 ## Publication
 
-Le dépôt est préparé pour GitHub, sans publication automatique. Les ZIP, journaux et anciennes copies de travail sont ignorés. Les illustrations représentent environ **595 Mo** ; prévoir un premier envoi conséquent. Aucune image individuelle ne dépasse 100 Mo.
+Les ZIP, journaux et anciennes copies de travail sont ignorés. Les illustrations représentent environ **595 Mo** ; prévoir un premier envoi conséquent. Aucune image individuelle ne dépasse 100 Mo.
 
-Pour héberger le site, exécuter `npm run build` puis publier le contenu de `dist/` chez un hébergeur statique. Le serveur local est un outil de développement. Le workflow GitHub vérifie les tests et la construction ; il ne déploie pas le site.
+### GitHub Pages
+
+1. Envoyer ce dépôt sur GitHub avec la branche `main`.
+2. Dans **Settings → Pages → Build and deployment → Source**, choisir **GitHub Actions**.
+3. Dans **Actions → Validate and deploy Pages**, cliquer sur **Run workflow** et sélectionner `main` pour le premier déploiement.
+4. Ouvrir l’adresse affichée dans l’environnement `github-pages` une fois le déploiement terminé.
+
+Chaque nouvel envoi sur `main` lance les tests, construit `dist/`, puis publie le site si les vérifications réussissent. Les pull requests et les autres branches sont vérifiées sans déploiement. Aucun secret personnel à ajouter : le workflow utilise le jeton fourni par GitHub. Le dossier `dist/` est généré par Actions et ne doit pas être ajouté au dépôt.
+
+Pour un autre hébergeur statique, exécuter `npm run build` puis publier le contenu de `dist/`. Le serveur local reste un outil de développement.
 
 ## Contributions
 
